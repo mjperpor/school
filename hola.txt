@@ -1,1 +1,2 @@
 Esto es un archivo de texto
+Segunda línea con un cambio
